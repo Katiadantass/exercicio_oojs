@@ -43,7 +43,6 @@ O objetivo é aplicar conceitos fundamentais da **Programação Orientada a Obje
    ```bash
    node main.js
 
-
 ## 🙋 Autora
 
 [Kátia Dantas](https://github.com/Katiadantass)
