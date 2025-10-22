@@ -42,3 +42,7 @@ O objetivo é aplicar conceitos fundamentais da **Programação Orientada a Obje
 2. Execute o arquivo principal:
    ```bash
    node main.js
+
+   ## 🙋 Autora
+
+[Kátia Dantas](https://github.com/Katiadantass)
